@@ -1,0 +1,12 @@
+C:\Users\riki_apter\source\repos\HeroesApi\HeroesApi\HeroesDal\bin\Debug\netcoreapp3.1\HeroesDal.deps.json
+C:\Users\riki_apter\source\repos\HeroesApi\HeroesApi\HeroesDal\bin\Debug\netcoreapp3.1\HeroesDal.runtimeconfig.json
+C:\Users\riki_apter\source\repos\HeroesApi\HeroesApi\HeroesDal\bin\Debug\netcoreapp3.1\HeroesDal.runtimeconfig.dev.json
+C:\Users\riki_apter\source\repos\HeroesApi\HeroesApi\HeroesDal\bin\Debug\netcoreapp3.1\HeroesDal.dll
+C:\Users\riki_apter\source\repos\HeroesApi\HeroesApi\HeroesDal\bin\Debug\netcoreapp3.1\HeroesDal.pdb
+C:\Users\riki_apter\source\repos\HeroesApi\HeroesApi\HeroesDal\obj\Debug\netcoreapp3.1\HeroesDal.csproj.AssemblyReference.cache
+C:\Users\riki_apter\source\repos\HeroesApi\HeroesApi\HeroesDal\obj\Debug\netcoreapp3.1\HeroesDal.AssemblyInfoInputs.cache
+C:\Users\riki_apter\source\repos\HeroesApi\HeroesApi\HeroesDal\obj\Debug\netcoreapp3.1\HeroesDal.AssemblyInfo.cs
+C:\Users\riki_apter\source\repos\HeroesApi\HeroesApi\HeroesDal\obj\Debug\netcoreapp3.1\HeroesDal.csproj.CoreCompileInputs.cache
+C:\Users\riki_apter\source\repos\HeroesApi\HeroesApi\HeroesDal\obj\Debug\netcoreapp3.1\HeroesDal.dll
+C:\Users\riki_apter\source\repos\HeroesApi\HeroesApi\HeroesDal\obj\Debug\netcoreapp3.1\HeroesDal.pdb
+C:\Users\riki_apter\source\repos\HeroesApi\HeroesApi\HeroesDal\obj\Debug\netcoreapp3.1\HeroesDal.genruntimeconfig.cache

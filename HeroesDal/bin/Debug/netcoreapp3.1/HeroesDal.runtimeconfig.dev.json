@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\riki_apter\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\riki_apter\\.nuget\\packages"
+    ]
+  }
+}
